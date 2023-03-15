@@ -22,6 +22,7 @@ func main() {
 		log.Fatal(err)
 	}
 
+	
 	// If not error was returned, print returned message
 	// to the console
 
